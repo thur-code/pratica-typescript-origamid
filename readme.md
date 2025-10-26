@@ -5,7 +5,7 @@ O objetivo foi a prática do TypeScript, foi realizado dois pequenos projetos, u
 ---
 
 ## 🚀 Preview  
-🔗 [Acesse o projeto online aqui]()  
+🔗 [Acesse o projeto online aqui](https://thur-code.github.io/pratica-typescript-origamid/index.html)  
 ![Preview do site](./dados.png) 
 ![Preview do site](./dom.png) 
 
