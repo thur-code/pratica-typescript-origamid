@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+  height: 100vh;
+  background: #222326;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+a{
+  color: #222326;
+  font-size: 2rem;
+  background-color: #aa88ff;
+  padding: 1rem 2rem;
+  border-radius: 5px;
+  transition: .3s;
+}
+
+a:hover{
+  background-color: #8f75d1
+}
